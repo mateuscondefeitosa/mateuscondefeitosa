@@ -1,5 +1,10 @@
 ## Hello ✌ My name is Mateus Conde Feitosa and Welcome to my GitHub!
 
+<h4>A Jr Software Developer from Brazil <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="20 style="vertical-align: bottom"/></h4>
+ Currently learning from HARVARD CS'50 🌱
+ 
+  ##
+  
 <div align="center">
   <a href="https://github.com/mateuscondefeitosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscondefeitosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,11 +19,11 @@
 </div>
 
   ##
+
+<h3>Where to find me:</h3>
+<p>
 <div> 
   <a href = "mailto:devmateuscondefeitosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-conde-feitosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <br>
 </div>
-
-- 🌱 I’m currently learning HARVARD CS'50
-
