@@ -4,7 +4,7 @@
  <img align="right" alt="GIT" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/3og0INk5eeMIelzqBG/giphy.gif?cid=ecf05e47r97sl531mlo1n2syb09vbw9nbpnor3jdqq8kzpsh&rid=giphy.gif&ct=g">
  <br>
  <h3>A Jr Software Developer from Brazil <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="20 style="vertical-align: bottom"/>   </h3>
-  <h3> Currently learning: REACT BOOTCAMP </h3>
+  <h3> Currently learning: REACT / REACT NATIVE BOOTCAMP </h3>
 </div>
   
  <br>
